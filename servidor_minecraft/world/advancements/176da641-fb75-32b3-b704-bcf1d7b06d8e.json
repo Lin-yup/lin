@@ -1237,6 +1237,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:42:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/eucalyptus_door": {
     "criteria": {
       "has_the_recipe": "2024-12-18 01:35:51 +0000"
