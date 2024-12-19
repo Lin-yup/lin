@@ -1906,3 +1906,6 @@
 [04:11:48] [Server thread/ERROR] [epicsiegemod]: Unable to read potion type minecraft:mining_fatigue:300:2
 [04:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lin_yup: Set the time to 1000]
 [04:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[04:36:36] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.0764917023631, 67.4, 238.25364225853775)
+[04:36:42] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.37785148657068, 68.0, 238.8854509957853)
+[04:37:05] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.0764917023631, 67.4, 238.25364225853775)

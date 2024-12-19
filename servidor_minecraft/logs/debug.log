@@ -30611,3 +30611,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [04:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:27:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:28:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:29:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:30:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:31:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:36] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.0764917023631, 67.4, 238.25364225853775)
+[04:36:42] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.37785148657068, 68.0, 238.8854509957853)
+[04:36:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:05] [Server thread/INFO] [STDOUT]: [com.schnurritv.sexmod.b0$a:lambda$onMessage$0:-1]: teleporting player 176da641-fb75-32b3-b704-bcf1d7b06d8e to (-203.0764917023631, 67.4, 238.25364225853775)
+[04:37:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
