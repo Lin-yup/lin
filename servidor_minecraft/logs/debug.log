@@ -30559,3 +30559,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [03:57:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lin_yup has reached the goal [Death Will Not Be Enough]
 [03:58:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lin_yup has made the advancement [Take Aim]
+[03:59:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:59:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:10] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-24, -1] in dimension 0 (overworld) while populating chunk [-23, -1], causing cascading worldgen lag.
+[04:00:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:00:11] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntityIronGolem from class de.Whitedraco.switchbow.entity.living.EntityLittleIronGolem
+[04:00:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:01:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:02:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:03:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lin_yup: Set the time to 1000]
+[04:03:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:04:35] [Server thread/INFO] [sexmod]: updated an old Goblin
+[04:04:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:05:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

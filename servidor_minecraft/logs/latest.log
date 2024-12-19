@@ -1895,3 +1895,9 @@
 [03:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lin_yup: Killed Lin_yup]
 [03:57:51] [Server thread/INFO] [tombstone]: Lin_yup has successfully been saved
 [03:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lin_yup has reached the goal [Death Will Not Be Enough]
+[03:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lin_yup has made the advancement [Take Aim]
+[04:00:10] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-24, -1] in dimension 0 (overworld) while populating chunk [-23, -1], causing cascading worldgen lag.
+[04:00:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:00:11] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntityIronGolem from class de.Whitedraco.switchbow.entity.living.EntityLittleIronGolem
+[04:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lin_yup: Set the time to 1000]
+[04:04:35] [Server thread/INFO] [sexmod]: updated an old Goblin
