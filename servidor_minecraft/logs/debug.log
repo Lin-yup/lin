@@ -30579,3 +30579,20 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [04:06:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:07:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:08:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:33] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.schnurritv.sexmod.bi from class com.schnurritv.sexmod.cc
+[04:10:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:46] [Server thread/ERROR] [epicsiegemod]: Unable to read potion type minecraft:slowness:300:0
+[04:11:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:48] [Server thread/ERROR] [epicsiegemod]: Unable to read potion type minecraft:mining_fatigue:300:2
+[04:12:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
