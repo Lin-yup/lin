@@ -1904,3 +1904,5 @@
 [04:10:33] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.schnurritv.sexmod.bi from class com.schnurritv.sexmod.cc
 [04:10:46] [Server thread/ERROR] [epicsiegemod]: Unable to read potion type minecraft:slowness:300:0
 [04:11:48] [Server thread/ERROR] [epicsiegemod]: Unable to read potion type minecraft:mining_fatigue:300:2
+[04:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lin_yup: Set the time to 1000]
+[04:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
