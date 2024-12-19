@@ -1949,3 +1949,7 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.I18n
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
 Caused by: java.lang.NullPointerException
+[04:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lin_yup has made the advancement [A Strange Grave's Dust]
+[04:49:48] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-1, 0] in dimension 0 (overworld) while populating chunk [0, 1], causing cascading worldgen lag.
+[04:49:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:49:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 0 | 32 ], underground: false
